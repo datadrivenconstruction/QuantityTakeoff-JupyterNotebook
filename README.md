@@ -1,6 +1,14 @@
 # QuantityTakeoff-with-JupyterNotebook
 
+Open JupyterNotebook: https://www.kaggle.com/artemboiko/takeoff-with-bimjson-dataframe-from-revit
+
 ![enter image description here](https://opendatabim.com/wp-content/uploads/2021/10/OpenDataBIM-5-2-scaled.jpg)
+
+
+# Grouping project elements by any of the properties
+With the help of the project dataframe (matrix),without the need to upload our data to the SQL server, we can group elements by any or even several element properties.
+![enter image description here](https://opendatabim.com/wp-content/uploads/2021/10/Dataset-2.jpg)
+
 
 # Google Collab 
 
