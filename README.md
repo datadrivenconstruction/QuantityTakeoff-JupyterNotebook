@@ -2,7 +2,7 @@
 
 Open JupyterNotebook: https://www.kaggle.com/artemboiko/takeoff-with-bimjson-dataframe-from-revit
 
-![enter image description here](https://opendatabim.com/wp-content/uploads/2021/10/OpenDataBIM-5-2-scaled.jpg)
+![enter image description here](https://opendatabim.io/wp-content/uploads/2021/10/OpenDataBIM-5-2-scaled.jpg)
 
 
 # Grouping project elements by any of the properties
