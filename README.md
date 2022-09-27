@@ -2,7 +2,7 @@
 
 Open JupyterNotebook: https://www.kaggle.com/artemboiko/takeoff-with-bimjson-dataframe-from-revit
 
-![enter image description here](https://opendatabim.io/wp-content/uploads/2021/10/OpenDataBIM-5-2-scaled.jpg)
+![enter image description here](https://opendatabim.io/wp-content/uploads/2022/09/5D-4D-BIM-OpenDataBIM-Data-Revit-IFC-1-2048x1130.jpg)
 
 
 # Grouping project elements by any of the properties
@@ -32,6 +32,6 @@ OpenDataBIM transferring information to another party without the need for exter
 
 OpenDataBIM - You Way to Free Tools in Construction.
 
-### Go to  BIM 2.0  go to  Open Source
+### Go to  BIM 2.0  go to  Open Data
 ![enter image description here](https://opendatabim.io/wp-content/uploads/2021/10/BIM20.jpg)
 
